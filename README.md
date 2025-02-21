@@ -1,2 +1,2 @@
 # demo_1
-This is my first implementation of github
+This is my first implementation of github.
